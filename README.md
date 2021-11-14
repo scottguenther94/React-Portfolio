@@ -1,30 +1,29 @@
-# Portfolio
+# Mheer's React-Portfolio
 
-## Description
-I built my portfolio using React to show potential employers my work, share a few things about me, offered a way to contact me directly via email, and view my resume. 
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg 'Click for more information on the Massachusets Institute of Technology License (MIT)')](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
-- [Description](#description)
-- [Experience](#experience)
-- [Technologies](#technologies)
-- [Features](#features)
-- [License](#license)
-- [Questions](#questions)
 
-## Experience
-This was really fun and a perfect way to understand React. I also used the Material UI library to design my Portfolio which required a lot of time learning how to use imported components and to customize my UI. I look forward to continuing to make this portfolio stand out by adding more features.
+1. [Description](#description)
+2. [Technologies](#technologies)
+3. [Screenshot](#screenshot)
+4. [Usage](#usage)
+## Description
+This app was created as a way to practice React.js. It allowed me to create a single page application that renders components based on tab clicks.
 
 ## Technologies
-- React.js 
-- React DOM and React Router DOM
-- Email-js npm package 
-- gh-pages for deployment
-- Material UI 
+This app was built using the following technologies:
+- React
+- Node.js
+- React-Bootstrap
+- React Font Awesome
+- Google Fonts
+- GH-Pages
 
-## Features 
-I used the Email-js npm package to allow users to send me an email by filling out my contact me form. A user inputs their name, email and message and sends me an email to my personal gmail account. This package does not require a server
-
-## Questions
-If you have any questions or would like to discuss this application further, please reach out to me via email at .
+## Screenshot
+<img width="1792" alt="Screen Shot 2021-11-12 at 6 03 06 PM" src="https://user-images.githubusercontent.com/80427770/141593449-55a28053-6024-4b97-aa5f-54927b59f4e8.png">
 
 
+## Usage
+To use this app simply click on various links and they will render the components. Using the dev tools in your browser will allow you to look at this app in a mobile format. When mobile, click on the 3 lines to open the menu and the links will appear.
