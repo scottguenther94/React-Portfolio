@@ -15,14 +15,14 @@ export default function Resume(){
   <ListGroup.Item variant="light" className="skills">Materialize</ListGroup.Item>
   <ListGroup.Item variant="light" className="skills">Bootstrap</ListGroup.Item>
   <ListGroup.Item variant="light" className="skills">Material UI</ListGroup.Item>
-  <ListGroup.Item variant="light" className="skills">CSS</ListGroup.Item>
+  <ListGroup.Item variant="light" className="skills">HTML / CSS</ListGroup.Item>
 </ListGroup>
 <h3 className="skillslabel text-align-right">Back End Skills</h3>
 <ListGroup>
   <ListGroup.Item variant="light" className="skills">Node.js</ListGroup.Item>
   <ListGroup.Item variant="light" className="skills">Express</ListGroup.Item>
-  <ListGroup.Item variant="light" className="skills">MySQL / sequelize</ListGroup.Item>
-  <ListGroup.Item variant="light" className="skills">MongoDB / mongoose</ListGroup.Item>
+  <ListGroup.Item variant="light" className="skills">MySQL / Sequelize</ListGroup.Item>
+  <ListGroup.Item variant="light" className="skills">MongoDB / Mongoose</ListGroup.Item>
   <ListGroup.Item variant="light" className="skills">GraphQL / Apollo</ListGroup.Item>
   <ListGroup.Item variant="light" className="skills">RESTful API's</ListGroup.Item>
 </ListGroup>
