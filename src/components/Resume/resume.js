@@ -7,7 +7,7 @@ export default function Resume(){
         <Container>
             <Stack gap={4}>
                 <h1 className="text-white aboutstyle mb-5">Resume</h1>
-                <h3><a className="text-white aboutstyle" href="https://docs.google.com/document/d/13Wgn3GAaWX9xRCx4UG3CC7dzOUDtktOF/edit?usp=sharing&ouid=102761915423924202916&rtpof=true&sd=true" target="_blank">Click for my resume!</a></h3>
+                <h3><a className="text-white aboutstyle" href="https://docs.google.com/document/d/1C2ARDuCmcmxx1OKMc3kZ86wyqWIXF5Sq/edit?usp=sharing&ouid=102761915423924202916&rtpof=true&sd=true" target="_blank">Click for my resume!</a></h3>
                 
                 <h3 className="skillslabel text-align-right">Front End Skills</h3>
                 <ListGroup>
